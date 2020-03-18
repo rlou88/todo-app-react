@@ -20,3 +20,8 @@ $ npm start
 - React
 - CSS Flexbox
 - Font Awesome
+- Netlify
+
+## Deployment
+
+https://honeydolist.netlify.com/
